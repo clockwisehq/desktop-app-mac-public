@@ -1,2 +1,1 @@
-# desktop-app-mac-public
-Public repository to host our desktop app assets
+PUBLIC PUBLIC PUBLIC PUBLIC
